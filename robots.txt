@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-e4wjiy.koi888win.sbs/sitemap.xml
